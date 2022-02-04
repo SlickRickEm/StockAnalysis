@@ -9,7 +9,7 @@ dash-table
 Flask
 Flask-Compress
 FundamentalAnalysis
-future=
+future
 gunicorn
 idna
 itsdangerous
